@@ -7,7 +7,7 @@ from telethon.events import NewMessage
 APP_ID = 16048600
 API_HASH = 'ed56ae69c2964d13400ba764cbb9e223'
 
-HEART = '♥️''
+HEART = '♥️'
 COLORED_HEARTS = ['💖', '❤️‍🔥', '💓']
 MAGIC_PHRASES = ['magic:gellyzxc']
 EDIT_DELAY = 0.1
